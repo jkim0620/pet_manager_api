@@ -9,9 +9,11 @@
   "author": "Julia Kim",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^1.0.2",
     "body-parser": "^1.17.2",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
+    "jsonwebtoken": "^7.4.1",
     "pg-promise": "^5.9.2"
   },
   "devDependencies": {
